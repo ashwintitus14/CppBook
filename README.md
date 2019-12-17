@@ -1,2 +1,2 @@
 # CppBook
-Programs tried while readingfrom "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
+Programs tried while reading "Programming: Principles and Practice Using C++" by Bjarne Stroustrup
