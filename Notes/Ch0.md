@@ -1,5 +1,4 @@
-# Chapter 0
-## Notes to the reader
+# Chapter 0: Notes to the reader
 
 * Compiling, linking and executing a program with 2 source files
 ```
