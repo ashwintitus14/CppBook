@@ -9,4 +9,6 @@
     4. function body
 * C++ source code => C++ compiler => Object code
 * Use double quotes to delimit string literals.
-* 
+* Linker links object code files to form an executable program.
+* Object code is not portable. Only works on system that it was compiled for.
+*
